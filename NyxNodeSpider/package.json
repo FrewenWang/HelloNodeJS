@@ -23,7 +23,7 @@
     "moment": "^2.27.0",
     "mongoose": "^5.9.7",
     "probe-image-size": "^5.0.0",
-    "requestretry": "^4.1.0",
+    "requestretry": "^7.0.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.4.2"
   }
