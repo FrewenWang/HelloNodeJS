@@ -20,7 +20,7 @@
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
     "lodash": "latest",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.7",
     "probe-image-size": "^5.0.0",
     "requestretry": "^4.1.0",
